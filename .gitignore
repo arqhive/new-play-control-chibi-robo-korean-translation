@@ -1,0 +1,7 @@
+release/
+work/
+build/
+*.iso
+*.wbfs
+*.zip
+__pycache__/
