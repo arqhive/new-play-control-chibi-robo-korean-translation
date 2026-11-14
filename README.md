@@ -5,6 +5,8 @@
 
 **제작: arqhive** · **최신 버전: [v0.9](../../releases/tag/v0.9)**
 
+**소개 페이지: [arqhive 한글 패치 아카이브](https://arqhive.vercel.app/korean-translation/chibi-robo-wii)**
+
 - 대사, 메뉴, 아이템·레치커즈 설명, 도움말, 저장 문구, 전광판 문구를 한글화했습니다.
 - 「치비컴」 로고 등 그림 글씨, 조작 안내·스트랩 안내 그림, 디스크 배너, HOME 메뉴, 노래방 영상 가사를 한글화했습니다.
 - 한글과 숫자·영문·기호를 G마켓 산스 Bold로 맞췄습니다.
